@@ -14,6 +14,7 @@ Hi, I'm taskPyroer!
 - 📢 微信公众号：[布鲁的Python之旅]，在这里分享技术心得、行业动态，为技术爱好者搭建一个学习交流的平台。
 - 🌐 和鲸社区：[[Blues](https://www.heywhale.com/home/user/profile/5eef5c2435465c002d90c878)]，粉丝1万+，累计发布作品200+
 - 🕸️ 爬虫管理平台：https://github.com/taskPyroer/taskpyro
+-  微刊 AI · 公众号阅读聚合 https://wxfeed.taskpyro.cn/
   
 🤝 欢迎关注我的 GitHub，一起交流学习，共同成长！期待与您一起探索 Python 的无限魅力。
 
